@@ -10,7 +10,6 @@ public class TestController {
 
     @GetMapping("/time")
     public void timeTest() {
-        log.info("TestController.time");
     }
 
 
